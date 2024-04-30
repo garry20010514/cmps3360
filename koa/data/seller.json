@@ -1,0 +1,46 @@
+[{
+    "name": "Coca-Cola",
+    "value": 99
+}, {
+    "name": "Pepsi",
+    "value": 102
+}, {
+    "name": "Nestlé",
+    "value": 83
+}, {
+    "name": "Unilever",
+    "value": 49
+}, {
+    "name": "Procter & Gamble",
+    "value": 200
+}, {
+    "name": "Cadbury",
+    "value": 152
+}, {
+    "name": "Oreo",
+    "value": 76
+}, {
+    "name": "Mengniu",
+    "value": 23
+}, {
+    "name": "Hershey's",
+    "value": 87
+}, {
+    "name": "Kellogg's",
+    "value": 223
+}, {
+    "name": "Danone",
+    "value": 145
+}, {
+    "name": "Master Kong",
+    "value": 187
+},{
+    "name": "Lay's",
+    "value": 127
+},{
+    "name": "Heineken",
+    "value": 57
+},{
+    "name": "Maxwell House",
+    "value": 99
+}]

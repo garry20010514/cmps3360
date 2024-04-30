@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Guangdong",
+		"value": 230
+	},
+	{
+		"name": "Fujian",
+		"value": 214
+	},
+	{
+		"name": "Zhejiang",
+		"value": 203
+	},
+	{
+		"name": "Shanghai",
+		"value": 310
+	},
+	{
+		"name": "Beijing",
+		"value": 289
+	},
+	{
+		"name": "Jiangsu",
+		"value": 207
+	},
+	{
+		"name": "Sichuan",
+		"value": 189
+	},
+	{
+		"name": "Chongqing",
+		"value": 195
+	},
+	{
+		"name": "Shaanxi",
+		"value": 160
+	},
+	{
+		"name": "Hunan",
+		"value": 140
+	},
+	{
+		"name": "Hebei",
+		"value": 170
+	},
+	{
+		"name": "Liaoning",
+		"value": 106
+	},
+	{
+		"name": "Hubei",
+		"value": 120
+	},
+	{
+		"name": "Jiangxi",
+		"value": 99
+	},
+	{
+		"name": "Tianjin",
+		"value": 107
+	},
+	{
+		"name": "Jilin",
+		"value": 143
+	},
+	{
+		"name": "Qinghai",
+		"value": 65
+	},
+	{
+		"name": "Shandong",
+		"value": 166
+	},
+	{
+		"name": "Shanxi",
+		"value": 134
+	},
+	{
+		"name": "Yunnan",
+		"value": 87
+	},
+	{
+		"name": "Anhui",
+		"value": 79
+	}
+]

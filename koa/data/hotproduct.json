@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Womenswear",
+    "children": [
+      {
+        "name": "Dresses",
+        "value": 56202,
+        "children": [
+          {
+            "name": "Set of Dresses",
+            "value": 10281
+          },
+          {
+            "name": "A-line Dress",
+            "value": 22331
+          },
+          {
+            "name": "Vintage Dress",
+            "value": 23590
+          }
+        ]
+      },
+      {
+        "name": "Ladies' Tops",
+        "value": 42013,
+        "children": [
+          {
+            "name": "Plaid Shirt",
+            "value": 7896
+          },
+          {
+            "name": "Chiffon Shirt",
+            "value": 10422
+          },
+          {
+            "name": "Polo Shirts",
+            "value": 23695
+          }
+        ]
+      },
+      {
+        "name": "Outerwear",
+        "value": 210282,
+        "children": [
+          {
+            "name": "Denim Jacket",
+            "value": 87330
+          },
+          {
+            "name": "Knitted Jacket",
+            "value": 65770
+          },
+          {
+            "name": "Parka Jacket",
+            "value": 57182
+          }
+        ]
+      },
+      {
+        "name": "Trousers",
+        "value": 168203,
+        "children": [
+          {
+            "name": "Overalls",
+            "value": 68203
+          },
+          {
+            "name": "Wide Leg Pants",
+            "value": 50000
+          },
+          {
+            "name": "Denim",
+            "value": 50000
+          }
+        ]
+      },
+      {
+        "name": "Featured Categories",
+        "value": 40292,
+        "children": [
+          {
+            "name": "Wedding Dresses",
+            "value": 292
+          },
+          {
+            "name": "Cheongsam",
+            "value": 10000
+          },
+          {
+            "name": "Gown",
+            "value": 10000
+          }
+        ]
+      },
+      {
+        "name": "Kids",
+        "value": 20313,
+        "children": [
+          {
+            "name": "Children's Clothing",
+            "value": 5000
+          },
+		  {
+            "name": "Children's Pants",
+            "value": 15313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Digital Prodcut",
+    "children": [
+      {
+        "name": "Phone",
+        "value": 201023,
+        "children": [
+          {
+            "name": "Foldable Phone",
+            "value": 1023
+          },
+          {
+            "name": "Game Phone",
+            "value": 40000
+          },
+          {
+            "name": "Full Screen Phone",
+            "value": 160000
+          }
+        ]
+      },
+      {
+        "name": "Phone Accessories",
+        "value": 103735,
+        "children": [
+          {
+            "name": "Phone Case",
+            "value": 3735
+          },
+          {
+            "name": "Screen Protector",
+            "value": 70000
+          },
+          {
+            "name": "Creative Acessories",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "Photography",
+        "value": 83834,
+        "children": [
+          {
+            "name": "Single Lens Reflex",
+            "value": 3834
+          },
+          {
+            "name": "Mirrorless Camera",
+            "value": 50000
+          },
+          {
+            "name": "Lens",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "Audio and Video Entertainment",
+        "value": 68384,
+        "children": [
+          {
+            "name": "Headphones",
+            "value": 30000
+          },
+          {
+            "name": "Loudspeaker Box",
+            "value": 8384
+          },
+          {
+            "name": "Microphone",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "Digital Accessories",
+        "value": 45038,
+        "children": [
+          {
+            "name": "Memory Card",
+            "value": 10000
+          },
+          {
+            "name": "Tripod",
+            "value": 5038
+          },
+          {
+            "name": "Fuselage Accessories",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "Intelligent Device",
+        "value": 90382,
+        "children": [
+          {
+            "name": "Smart Bracelet",
+            "value": 382
+          },
+          {
+            "name": "Smart Home",
+            "value": 60000
+          },
+          {
+            "name": "UAV",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "value": 10201,
+        "children": [
+          {
+            "name": "Operator",
+            "value": 10000
+          },
+          {
+            "name": "E-education",
+            "value": 201
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Makeup and Skincare",
+    "children": [
+      {
+        "name": "Facial Skincare",
+        "value": 430291,
+        "children": [
+          {
+            "name": "Face Cream",
+            "value": 30291
+          },
+          {
+            "name": "Facial Cleaning",
+            "value": 100000
+          },
+          {
+            "name": "Facial Mask",
+            "value": 300000
+          }
+        ]
+      },
+      {
+        "name": "Nake-up Product",
+        "value": 80284,
+        "children": [
+          {
+            "name": "Lipstick",
+            "value": 60284
+          },
+          {
+            "name": "Liquid Foundation",
+            "value": 10000
+          },
+          {
+            "name": "Eyebrow Pencil",
+            "value": 10000
+          }
+        ]
+      },
+      {
+        "name": "Men's Skincare",
+        "value": 40294,
+        "children": [
+          {
+            "name": "Facial Cleaning",
+            "value": 10294
+          },
+          {
+            "name": "Shaving",
+            "value": 5000
+          },
+          {
+            "name": "Skincare Set",
+            "value": 25000
+          }
+        ]
+      },
+      {
+        "name": "Makeup Tool",
+        "value": 50939,
+        "children": [
+          {
+            "name": "Cotton Pad",
+            "value": 10939
+          },
+          {
+            "name": "Cosmetic Brush",
+            "value": 10000
+          },
+          {
+            "name": "Double Eyelid Tape",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "value": 10921,
+        "children": [
+          {
+            "name": "Perfume",
+            "value": 921
+          },
+          {
+            "name": "Seasonal Promotion",
+            "value": 10000
+          }
+        ]
+      }
+    ]
+  }
+]

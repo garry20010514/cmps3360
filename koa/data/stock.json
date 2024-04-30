@@ -1,0 +1,41 @@
+[{
+    "name": "IPhone 11",
+    "stock": 2310,
+    "sales": 2103
+}, {
+    "name": "Galoshes",
+    "stock": 34312,
+    "sales": 23509
+}, {
+    "name": "Loose Sweater",
+    "stock": 22140,
+    "sales": 12830
+}, {
+    "name": "Down Coat",
+    "stock": 10842,
+    "sales": 5492
+}, {
+    "name": "Denim",
+    "stock": 68102,
+    "sales": 44043
+}, {
+    "name": "Padded Hoodie",
+    "stock": 12032,
+    "sales": 8603
+}, {
+    "name": "Skirt",
+    "stock": 9890,
+    "sales": 8960
+}, {
+    "name": "HUAWEI P30",
+    "stock": 20130,
+    "sales": 12302
+}, {
+    "name": "Phone Case",
+    "stock": 89342,
+    "sales": 42948
+}, {
+    "name": "Legging",
+    "stock": 5034,
+    "sales": 1220
+}]

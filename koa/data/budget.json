@@ -1,0 +1,26 @@
+[{
+    "dimName": "sales",
+    "max": 80000,
+    "budget": 75000,
+    "expense": 68340
+}, {
+    "dimName": "Administration",
+    "max": 40000,
+    "budget": 32100,
+    "expense": 34500
+}, {
+    "dimName": "Development",
+    "max": 1200000,
+    "budget": 1000000,
+    "expense": 874820
+}, {
+    "dimName": "Support",
+    "max": 21000,
+    "budget": 17640,
+    "expense": 12500
+}, {
+    "dimName": "Marketing",
+    "max": 25000,
+    "budget": 19000,
+    "expense": 21000
+}]

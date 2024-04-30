@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Gold Retailers",
+        "children": [
+            {
+                "name": "Wuhan",
+                "value": [114.31, 30.52]
+            }, {
+                "name": "Dandong",
+                "value": [124.37, 40.13]
+            }, {
+                "name": "Zhangjiakou",
+                "value": [114.87, 40.82]
+            }, {
+                "name": "Shenzhen",
+                "value": [114.07, 22.62]
+            }, {
+                "name": "Taipei",
+                "value": [121.12, 24.62]
+            }, {
+                "name": "Kaifeng",
+                "value": [114.61, 34.52]
+            }, {
+                "name": "Qingdao",
+                "value": [120.21, 36.26]
+            }, {
+                "name": "Kashgar",
+                "value": [77.61, 39.02]
+            }, {
+                "name": "Nanchang",
+                "value": [116.27, 28.59]
+            }, {
+                "name": "Guilin",
+                "value": [110.03, 25.47]
+            }, {
+                "name": "Kunming",
+                "value": [103.11, 25.67]
+            }
+        ]
+    },
+    {
+        "name": "Platinum Retailers",
+        "children": [
+            {
+                "name": "Jinhua",
+                "value": [119.64, 29.12]
+            }, {
+                "name": "Xi'an",
+                "value": [108.95, 34.27]
+            }, {
+                "name": "Beijing",
+                "value": [116.87, 40.32]
+            }, {
+                "name": "Changsha",
+                "value": [112.61, 28.01]
+            }, {
+                "name": "Nanjing",
+                "value": [118.83, 32.27]
+            }, {
+                "name": "Chongqing",
+                "value": [107.34, 29.62]
+            }, {
+                "name": "Haikou",
+                "value": [110.39, 19.81]
+            }
+        ]
+    },
+    {
+        "name": "Diamond Retailers",
+        "children": [
+            {
+                "name": "Chengdu",
+                "value": [104.06, 30.67]
+            }, {
+                "name": "Guangzhou",
+                "value": [113.50, 23.02]
+            }, {
+                "name": "Shanghai",
+                "value": [121.66, 31.27]
+            }, {
+                "name": "Xiamen",
+                "value": [118.12, 24.69]
+            }
+        ]
+    }
+]
